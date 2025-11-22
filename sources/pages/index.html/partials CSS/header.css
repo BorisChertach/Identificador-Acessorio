@@ -15,7 +15,7 @@ body{
 header {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Distribui Logo - Menu - Login */
+    justify-content: space-between;
     width: auto;
     min-height: 10vh;
     margin: 4vh;
